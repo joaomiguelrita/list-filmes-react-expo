@@ -20,7 +20,7 @@ Siga os passos abaixo para testar o aplicativo no seu próprio ambiente:
 **1. Clone o repositório**
 Abra o seu terminal e rode o comando:
 ```bash
-git clone [https://github.com/JoaoMiguelRita/list-filmes-react-expo.git](list-filmes-react-expo)
+git clone https://github.com/JoaoMiguelRita/list-filmes-react-expo.git
 ```
 
 **2. Acesse a pasta do projeto**
